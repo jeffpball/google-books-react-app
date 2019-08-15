@@ -20,7 +20,7 @@ This full-stack application allows the user to utilize the `Google Books API` to
 | CSS3 | |
 | Git | https://git-scm.com/ |
 | GitHub | https://github.com/ |
-| Github Pages |
+| Github Pages | https://pages.github.com/ |
 | Google Books API | https://developers.google.com/books/ |
 | HTML5 | |
 | JavaScript | |
