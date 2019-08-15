@@ -33,13 +33,3 @@ This full-stack application allows the user to utilize the `Google Books API` to
 | ReactJS | https://github.com/facebook/react |
 ---
 
-<sub>
-
-Created by [Christopher Celestino](https://BAANG.github.io/) (@[GitHub](https://github.com/BAANG))
-for the UC Berkeley Extension, Full Stack Coding Bootcamp.
-
-Other contributors [Matthew Hagarty](https://github.com/matthewryanhagarty) & [Greyson Gerhard-Young](https://github.com/greysongy)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-</sub>
