@@ -1,6 +1,6 @@
 # Google Books Search `(MERN Stack Application)`
 
-Link to [Deployed App](https://secret-retreat-64198.herokuapp.com/)
+Link to [Deployed App](https://google-books-react-app-jpb.herokuapp.com/)
 
 ---
 
